@@ -1,0 +1,9 @@
+jupyterlab_code_formatter
+black
+yapf
+isort
+jupyterlab-git
+jupyterlab-github
+jupyterlab-variableinspector
+jupyterlab-lsp
+python-language-server
